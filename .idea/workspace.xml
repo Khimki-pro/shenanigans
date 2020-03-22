@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c941027b-7ced-4d70-ad9c-2c124d54b232" name="Default Changelist" comment="" />
+    <list default="true" id="c941027b-7ced-4d70-ad9c-2c124d54b232" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/shenanigans/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/shenanigans/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/shenanigans/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/shenanigans/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/main.mustache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,10 +37,17 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZRVfNIF43xhZlVLL6yAnh8iufa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +91,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="416" y="200" width="525" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584816387509">
       <screen x="0" y="25" width="1366" height="743" />
@@ -68,38 +112,38 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="66" y="156" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1584809834530" />
-    <state width="1298" height="206" key="GridCell.Tab.0.bottom" timestamp="1584817604934">
+    <state width="1298" height="206" key="GridCell.Tab.0.bottom" timestamp="1584882148415">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584817604934" />
-    <state width="1298" height="206" key="GridCell.Tab.0.center" timestamp="1584817604932">
+    <state width="1298" height="206" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584882148415" />
+    <state width="1298" height="206" key="GridCell.Tab.0.center" timestamp="1584882148413">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1584817604932" />
-    <state width="1298" height="206" key="GridCell.Tab.0.left" timestamp="1584817604931">
+    <state width="1298" height="206" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1584882148413" />
+    <state width="1298" height="206" key="GridCell.Tab.0.left" timestamp="1584882148411">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1584817604931" />
-    <state width="1298" height="206" key="GridCell.Tab.0.right" timestamp="1584817604933">
+    <state width="1298" height="206" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1584882148411" />
+    <state width="1298" height="206" key="GridCell.Tab.0.right" timestamp="1584882148414">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1584817604933" />
-    <state width="1298" height="206" key="GridCell.Tab.1.bottom" timestamp="1584817604938">
+    <state width="1298" height="206" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1584882148414" />
+    <state width="1298" height="206" key="GridCell.Tab.1.bottom" timestamp="1584882148420">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584817604938" />
-    <state width="1298" height="206" key="GridCell.Tab.1.center" timestamp="1584817604936">
+    <state width="1298" height="206" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584882148420" />
+    <state width="1298" height="206" key="GridCell.Tab.1.center" timestamp="1584882148417">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1584817604936" />
-    <state width="1298" height="206" key="GridCell.Tab.1.left" timestamp="1584817604935">
+    <state width="1298" height="206" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1584882148417" />
+    <state width="1298" height="206" key="GridCell.Tab.1.left" timestamp="1584882148416">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1584817604935" />
-    <state width="1298" height="206" key="GridCell.Tab.1.right" timestamp="1584817604937">
+    <state width="1298" height="206" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1584882148416" />
+    <state width="1298" height="206" key="GridCell.Tab.1.right" timestamp="1584882148419">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1298" height="206" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1584817604937" />
+    <state width="1298" height="206" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1584882148419" />
     <state x="58" y="101" width="1241" height="586" key="new project wizard" timestamp="1584809836179">
       <screen x="0" y="25" width="1366" height="743" />
     </state>

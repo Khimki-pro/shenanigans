@@ -1,0 +1,4 @@
+org/example/shenanigans/Application.class
+org/example/shenanigans/GreetingController.class
+org/example/shenanigans/repos/MessageRepo.class
+org/example/shenanigans/domain/Message.class
